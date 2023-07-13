@@ -1,0 +1,12 @@
+<owners>
+    <owner>
+        <id>1</id>
+        <name>Jammie Perry</name>
+        <address>1234 first place</address>
+    </owner>
+    <owner>
+        <id>2</id>
+        <name>Gladios</name>
+        <address>5678 2nd place</address>
+    </owner>
+</owners>

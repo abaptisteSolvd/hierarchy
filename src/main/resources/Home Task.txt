@@ -1,0 +1,29 @@
+Read the following articles:
+StringUtils java docs
+FileUtils java docs
+IntelliJ IDEA Windows keyboard shortcuts
+IntelliJ IDEA macOS keyboard shortcuts
+Debugging using IntelliJ IDEA
+Practical task:
+Read text from the file and calculate the numbers of the unique words. Write the result to the file. The main requirement is: using StringUtils and FileUtils to implement it with minimum lines of code.
+Questions for the exam that must be covered in this lecture.
+What do you know about StringUtils?
+How to find the class in the project?
+How to find strings in the project?
+What do you know about FileUtils?
+How to debug code? How to get current variables' value on debugging?
+How to setup remote debugging?
+
+Read the following articles:
+Enums
+Lambda expressions and Lambda Quick Start
+Practical tasks:
+Use at least 5 lambda functions from the java.util.function package.
+Create 3 custom Lambda functions with generics.
+Create 5 complex Enums(with fields, methods, blocks).
+Questions for the exam that must be covered in this lecture.
+What is lambda?
+How to create lambda in Java?
+What lambda functions do you know? Where are they located?
+What is enum?
+What enum types do you know?
