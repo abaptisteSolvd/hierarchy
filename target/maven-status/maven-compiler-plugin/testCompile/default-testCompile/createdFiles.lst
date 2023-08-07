@@ -1,0 +1,6 @@
+automation\HomePage.class
+automation\WebTest.class
+automation\AbstractPage.class
+automation\AmazonTests.class
+automation\DriverManager.class
+automation\IAbstractTest.class
